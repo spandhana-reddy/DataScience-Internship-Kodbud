@@ -1,0 +1,7 @@
+Metric,Value
+Dataset Rows,891
+Dataset Columns,11
+Training Samples,712
+Testing Samples,179
+Model,Logistic Regression
+Accuracy,0.8044692737430168
